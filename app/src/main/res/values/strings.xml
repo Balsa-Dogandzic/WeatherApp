@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Vremenska prognoza</string>
+
+    <string name="city_name">City Name</string>
+    <string name="city_hint">Enter city name</string>
+    <string name="temperature">23</string>
+    <string name="desc_search">Search</string>
+    <string name="desc_background">Background</string>
+    <string name="desc_info">Info</string>
+    <string name="condition">Condition</string>
+    <string name="forecast">Forecast</string>
+
+    <string name="city_warning">Please enter city name</string>
+    <string name="weather_details">Current weather details</string>
+    <string name="granted">Permissions granted</string>
+    <string name="denied">Please provide permissions</string>
+    <string name="api_call_error">Enter a valid city</string>
+
+    <string name="today">Today</string>
+    <string name="tommorow">Tommorow</string>
+    <string name="day_after">Day after</string>
+</resources>
